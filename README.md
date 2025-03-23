@@ -1,1 +1,1 @@
-# Regelwerk
+# Regelwerk des Shypex.NET Netzwerkes
